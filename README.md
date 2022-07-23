@@ -86,3 +86,6 @@ By default, the script won't be included in your solution's view. Give yourself 
 
 ## What else can this thing do?
 Check out the [Utilities](./Utilities) folder for common utilities!
+
+## Why is it dot-sourced? Why not use Import-Module?
+This is a developer tool, so it's useful to have the functions and variables available globally. It's especially helpful when developing new functions. Feel free to change it around for your project if you'd prefer to use Import-Module!
