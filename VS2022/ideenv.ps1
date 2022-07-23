@@ -77,5 +77,5 @@ function deploy
     return
   }
 
-  build()
+  #Build and deploy....
 }
