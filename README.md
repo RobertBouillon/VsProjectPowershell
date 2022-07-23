@@ -40,7 +40,7 @@ This script is designed for "Clone-to-own"; to provide a baseline for your proje
 
 # Installation
 
-![intro](./docs/install.gif?raw=true)
+![intro](Docs/install.gif?raw=true)
 
 
 ### Prerequisites
