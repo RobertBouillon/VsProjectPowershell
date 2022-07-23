@@ -1,9 +1,8 @@
 # Visual Studio Project Powershell
-A Powershell script for adding script utilities to your projects in Visual Studio.
+Add a script file to your project to automate common tasks!
 
-Visual Studio includes a PowerShell tool window that's can be used for macros and project utilities, with a little help.
+This script adds the little extra Visual Studio needs for its terminal window to be useful by allowing you to create project-specific powershell functions to automate common tasks.
 
-This script is designed for "Clone-to-own"; to provide a baseline for your project for you to customize.
 
 > TIP: `CTRL+~` is the default keybind for viewing the terminal window!
 
