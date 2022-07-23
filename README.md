@@ -7,7 +7,7 @@ This script is designed for "Clone-to-own"; to provide a baseline for your proje
 
 > TIP: `CTRL+~` is the default keybind for viewing the terminal window!
 
-![intro](docs/intro.gif)
+![intro](./docs/intro.gif)
 
 ### Highlights
 
@@ -40,7 +40,7 @@ This script is designed for "Clone-to-own"; to provide a baseline for your proje
 
 # Installation
 
-![intro](docs/install.gif)
+![intro](./docs/install.gif)
 
 
 ### Prerequisites
