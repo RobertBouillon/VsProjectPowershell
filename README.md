@@ -1,10 +1,9 @@
 # Visual Studio Project Powershell
-Add a script file to your project to automate common tasks!
+Add a Powershell script file to your project to automate common tasks! Invoke the scripts from within Visual Studio!
 
 This script adds the little extra Visual Studio needs for its terminal window to be useful by allowing you to create project-specific powershell functions to automate common tasks.
 
 
-> TIP: `CTRL+~` is the default keybind for viewing the terminal window!
 
 ![intro](Docs/intro.gif?raw=true)
 
@@ -13,6 +12,14 @@ This script adds the little extra Visual Studio needs for its terminal window to
 1. Creates a location for commonly-used scripts, such as `build` and `deploy`
 2. Shortens the prompt so you can use the window docked to the side, where there's typically more screen real-estate
 3. Provides a few helper functions, such as `popout`, which opens a full-sized powershell window with Visual Studio environment, optionally elevated.
+
+# Usage
+
+(_See [installation instructions](#installation) below_)
+
+1. Press `CTRL+~` to open a terminal window (Or **View > Terminal** if you're not using default keybinds)
+2. Edit the `ideenv.ps1` file in your project.
+3. Reload the script with the command `. $script_path`, or click the **+ Project Powershell** button in the Terminal Window toolbar.
 
 
 ### Built-in Commands 
